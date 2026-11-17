@@ -1,0 +1,10 @@
+../HAL/LCD.c:15:13:delay_us	24	static
+../HAL/LCD.c:21:13:delay_ms	24	static
+../HAL/LCD.c:27:13:expander_write	24	static
+../HAL/LCD.c:34:13:pulse_nibble	16	static
+../HAL/LCD.c:42:13:lcd_send	24	static
+../HAL/LCD.c:49:13:lcd_cmd	16	static
+../HAL/LCD.c:54:6:LCD_Init	8	static
+../HAL/LCD.c:72:6:LCD_Clear	8	static
+../HAL/LCD.c:78:6:LCD_SetCursor	24	static
+../HAL/LCD.c:84:6:LCD_PrintString	16	static

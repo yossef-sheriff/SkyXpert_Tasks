@@ -1,0 +1,7 @@
+../Src/main_master.c:30:13:Inter_Byte_Gap	2
+../Src/main_master.c:35:16:Spi_Transfer	1
+../Src/main_master.c:43:13:Spi_Poll	6
+../Src/main_master.c:74:13:Update_Event	3
+../Src/main_master.c:83:13:LCD_ShowLine	4
+../Src/main_master.c:103:13:Refresh_Display	3
+../Src/main_master.c:122:5:main	3

@@ -1,0 +1,6 @@
+../MCAL/SPI.c:13:6:MCAL_SPI1_Init	32	static
+../MCAL/SPI.c:109:6:MCAL_SPI1_DeInit	4	static
+../MCAL/SPI.c:118:9:MCAL_SPI1_TransferByte	24	static
+../MCAL/SPI.c:136:6:MCAL_SPI1_SetTxData	16	static
+../MCAL/SPI.c:143:9:MCAL_SPI1_IsBusy	4	static
+../MCAL/SPI.c:148:6:SPI1_IRQHandler	24	static

@@ -1,0 +1,10 @@
+../HAL/LCD.c:15:13:delay_us	2
+../HAL/LCD.c:21:13:delay_ms	2
+../HAL/LCD.c:27:13:expander_write	1
+../HAL/LCD.c:34:13:pulse_nibble	1
+../HAL/LCD.c:42:13:lcd_send	1
+../HAL/LCD.c:49:13:lcd_cmd	1
+../HAL/LCD.c:54:6:LCD_Init	1
+../HAL/LCD.c:72:6:LCD_Clear	1
+../HAL/LCD.c:78:6:LCD_SetCursor	2
+../HAL/LCD.c:84:6:LCD_PrintString	2

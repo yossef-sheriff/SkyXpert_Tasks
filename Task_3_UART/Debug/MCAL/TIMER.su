@@ -1,0 +1,4 @@
+../MCAL/TIMER.c:9:6:MCAL_TIM2_Init	4	static
+../MCAL/TIMER.c:27:10:MCAL_TIM2_GetMs	4	static
+../MCAL/TIMER.c:33:9:MCAL_TIM2_Elapsed	16	static
+../MCAL/TIMER.c:38:6:TIM2_IRQHandler	4	static
